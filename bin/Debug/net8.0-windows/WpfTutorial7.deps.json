@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfTutorial7/1.0.0": {
+        "runtime": {
+          "WpfTutorial7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfTutorial7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
